@@ -9,10 +9,10 @@
 
 <h2>1. Understanding the Problem</h2>
 *
-*Create a terminal based, 2D game written in Java
+Create a terminal based, 2D game written in Java
 Project time Frame: July 7, 2020 – July 13, 2020
+Created by Allan Alcorn for Atari, Pong is a table tennis game featuring simple two-dimensional graphics. The game was originally released in 1972. This special TEKcamp version was created in response to the need for a 4 Player version.
 Customer: Eric and Denise Kliskey
-Pong was created by Allan Alcorn for Atari, a table tennis game featuring simple two-dimensional graphics which was originally released in 1972. This special TEKcamp version was created in response to the need for a 4 Player version.
 
 *Minimum Viable Product
 *
@@ -27,11 +27,11 @@ Have an organized and logical approach with at least one package
 Have some type of error handling for bad user input
 
 *Customer Features Wish List
-*Current Features:
+Current Features:
 2 or 4 Player Mode
-Player Names display on GUI
-Score displays on GUI and increments in real time
-TEKcamp logo displayed on GUI and in dialogue boxes
+Player Names display on the GUI
+Score displays on the GUI and increments in real time
+The TEKcamp logo is displayed on the GUI and in dialogue boxes
 Future Upgrades:
 Allow player to select levels of difficulty (paddle size, paddle speed, ball size, ball speed)
 Create a player library that includes their picture so if name matches, import picture to GUI also.
@@ -117,9 +117,6 @@ I have to say it again because it is so true...“If you don’t know it’s sim
 What would I do different? Not so much different but I will definitely continue to learn, continue to grow, and continue to develop relationships so that we can help each other to succeed. I know that the code I wrote this week is not the code I will be able to write next week, the week after, or two years from now. Having a flexible mindset and learning from my mistakes is a lifelong characteristic I will try my best to cultivate. I will not settle for ordinary but in regards to my rather ordinary-looking 2D game, I have much to celebrate regarding the learning, the investment by other students and TEK Academy faculty and friends that brought me to a place I could never have imagined a scant nine weeks ago.
 
 
-*
-*
-*
 *
 *
 *
